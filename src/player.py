@@ -7,4 +7,4 @@ class Player:
         self.current_room = current_room
     
     def __str__(self):
-        return 'Some value'
+        return 'Some Value'
